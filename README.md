@@ -1,8 +1,7 @@
 Facebot.rb
 ==========
 
-Nota Bene
----------
+*Nota Bene
 
 FaceBot uses an older version of the Facebook API and doesn't work anymore. I don't currently have the inclination to make it work, unfortunately.
 
